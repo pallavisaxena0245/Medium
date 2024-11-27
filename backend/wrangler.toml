@@ -26,6 +26,3 @@ compatibility_date = "2024-11-24"
 # [observability]
 # enabled = true
 # head_sampling_rate = 1
-
-[vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMzdkNzI4ZmQtODJiMC00MjY3LWFlM2MtM2MyNzIwY2ViN2YzIiwidGVuYW50X2lkIjoiZjQ1YzgxOWIzMGFiYjIwNzVlMWM1MjMyNmVjN2ZkNzBhODE5N2I5NGM5YjM5MDA4Zjc4OTg5NGNhZjY5NzBjZiIsImludGVybmFsX3NlY3JldCI6ImNjYTBmN2NhLThlNTktNDA4Ni04ZDRkLTUwYzYyNWFhMThkZCJ9.BsNxCfajr2ys67aAuk5gNfBduexTXFmvBlvmJB9_xiY"
